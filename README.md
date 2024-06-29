@@ -77,6 +77,7 @@ jobs:
 To ensure the pipeline works correctly, make sure to configure the following secrets in GitHub:
 
 AWS_ACCESS_KEY_ID
+
 AWS_SECRET_ACCESS_KEY
 
 ## Prerequisites
