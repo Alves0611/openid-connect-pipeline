@@ -82,6 +82,7 @@ AWS_SECRET_ACCESS_KEY
 
 ## Prerequisites
 Terraform >= 1.8.4
+
 AWS account configured with the necessary permissions to deploy the infrastructure
 
 ## Running the Pipeline
